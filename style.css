@@ -52,7 +52,14 @@ body{
     font-style: normal;
     font-weight: 300;
     font-size: 36px;
-    
-
-color: #F1F1F1;
+    color: #F1F1F1;
  }
+#new{
+    position: absolute;
+    width:100%;
+    top: 85%;
+    text-align: center;
+    font-family: Geometria;
+    font-style: normal;
+    font-size: 28px;
+    color: #F1F1F1;
